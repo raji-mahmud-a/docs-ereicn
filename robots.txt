@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-nlxv5i.retomacar.com/sitemap.xml
